@@ -1,2 +1,2 @@
 # cancer-driver
-find out the mian driver gene in cancer
+find out the main driver gene in cancer
